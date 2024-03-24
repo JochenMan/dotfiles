@@ -12,3 +12,9 @@
   ```sh
   source ~/JochenMan-dotfiles/functions.sh
   ```
+
+3. **Display help:**
+  After sourcing the functions.sh, you can display help by running:
+  ```sh
+  halp
+  ```
