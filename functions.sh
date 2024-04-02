@@ -146,8 +146,8 @@ Vim-based Note Management Helper Functions
 NT(1)                 Vim Note Management Utilities                NT(1)
 
 NAME
-    nt    Create a new note for today and opens it in Vim.
-    ntc   Concatenate all notes into a single file and opens it in Vim.
+    nt    Create a new note for today and open it in Vim.
+    ntc   Concatenate all notes into a single file and open it in Vim.
     ns    Search notes for a specified string and display matches.
     nsc   Search notes for a specified string, compile matching notes,
           and open the compilation in Vim.
